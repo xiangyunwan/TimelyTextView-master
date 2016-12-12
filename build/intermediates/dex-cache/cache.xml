@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\github-source\TimelyTextView-master\sample\build\intermediates\exploded-aar\TimelyTextView-master\timelytextview\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="8ebd5e3366cefe8584959b697199ffc0dc7f9ed9">
+        <dex dex="D:\github-source\TimelyTextView-master\sample\build\intermediates\pre-dexed\debug\TimelyTextView-master-timelytextview-unspecified_077fed4da6217be46ca056604c0fa952a81b9a06.jar" />
+    </item>
+    <item
+        jar="D:\gradle-2.14.1-all\gradle-2.14.1\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\github-source\TimelyTextView-master\sample\build\intermediates\pre-dexed\debug\library-2.4.0_6fa54a1c5dd6faced0d6b49678d2bce480fe5ad1.jar" />
+    </item>
+
+</items>
